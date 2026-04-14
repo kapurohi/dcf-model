@@ -1,0 +1,1063 @@
+
+--- PAGE 1 ---
+By Professor Stefano Caselli 
+Università Bocconi and SDA Bocconi 
+MODULE   4 
+PRIVATE EQUITY 
+AND VENTURE 
+CAPITAL 
+
+--- PAGE 2 ---
+Content 1 
+1. Company Valuation Fundamentals 
+2.  Company Valuation Fundamentals: The Pillars of DCF 
+3.  A Case of Company Valuation for PE Investment 
+4.  Applying Company Valuation to PE Settings 
+5.  Applying Company Valuation to VC Settings: The VC Method 
+6.  Launching Your Own Startup: Suggestions 
+7.  PE and M&A – Interview with Eugenio Morpurgo 
+8.  PE and IPO – Interview with Luca Peyrano 
+9.  PE, Turnaround, and Restructuring – Interview with Raffaele Legnani  
+
+--- PAGE 3 ---
+Introduction 
+This week deals with the issue and concrete application of company valuation. 
+ 
+This clip provides you with an overview of the fundamentals of company valuation, 
+while in subsequent clips some specific valuation models will be focused on and their 
+application to PE. 
+3 
+1 
+
+--- PAGE 4 ---
+Company Valuation 
+Company valuation is the assessment of company’s value.  
+Concerning PE, company valuation is a fundamental step since the PEI needs to know 
+the value of the company in which it is investing to decide to buy either newly 
+issued shares or already existing. 
+4 
+1 
+
+--- PAGE 5 ---
+Company Valuation 
+The process of company valuation is the core of the investing phase. 
+We will use corporate finance theory to do that. 
+However , what is peculiar about PE is that equity has to be calculated in two 
+different moments: 
+ 
+§ Time 0: The moment in which the PEI decides to invest and in which the PEI 
+buys the shares of the private company 
+§ Time n: The moment when it exits 
+5 
+1 
+These two moments are correlated and they 
+are related to the generation of IRR.  
+In the first moment you should minimize 
+equity value, on the contrary at time n you 
+have to maximize equity value. 
+
+--- PAGE 6 ---
+Company Valuation: The Macro 
+Components of a Balance Sheet 
+6 
+1 
+Current 
+Assets 
+Current 
+Liabilities 
+Fixed Assets NFP 
+Financial 
+Investments 
+Other 
+Liabilities  
+Intangible 
+Assets Equity 
+
+--- PAGE 7 ---
+The most popular way for calculating the equity value is represented by discounted 
+cash flow (DCF), where the rationale behind this model lies the assumption that the 
+value of the company is made up by the present value of the cash flows (CF) that the 
+company will generate over the following years discounted at the weighted average 
+cost of capital (WACC). 
+ 
+How do you calculate CF for the following years? 
+The PEI bases the estimation on a sound and reliable business plan. 
+7 
+1 
+Equity Value: The Pillars for Company 
+Evaluation 
+
+--- PAGE 8 ---
+The general equation to calculate the equity value for an n-maturity perspective of 
+investment is: 
+ 
+ 
+ 
+ 
+ 
+ 
+Where:  
+• TV is the terminal value at time n 
+• SA are surplus (non-operating) assets 
+• M represents the equity held by minority shareholders 
+• NFP is the net financial position 
+• SA, M and NFP refer (if they exist) to the time in which the valuation is made 
+8 
+1 
+Equity Value 
+                  CFt       
+         (1 + WACC)t 
+n 
+t=1 
++   TVn   +   (SA – M – NFP) Equity = 
+Enterprise Value 
+
+--- PAGE 9 ---
+Multiples 
+At the same time, the multiples method is also very widespread. This takes into 
+consideration the company together with its peers. 
+For this reason, this method is used together with the DCF to develop a fine tuned 
+valuation. 
+ 
+The most used multiples are: 
+• EV/EBITDA 
+• EV/EBIT 
+• EV/S 
+9 
+1 
+
+--- PAGE 10 ---
+Multiples 
+10 
+1 
+EV/EBITDA 
+Enterprise value/EBITDA gives a strong advice about “How many times do you have to 
+multiply the EBITDA to buy the company?” It is based on the capability of the firm to 
+produce gross margin. 
+EV/EBIT 
+Enterprise value/EBIT gives a strong advice about “How many times do I have to multiply 
+the EBIT to buy the company?” It is based on the capability of the firm to produce 
+operating profit. 
+EV/S Enterprise value/sales gives a strong advice about “How many times do I have to multiply 
+the sales to buy the company?” It is based on the capability of the firm to produce sales. 
+
+--- PAGE 11 ---
+Content 2 
+1.  Company Valuation Fundamentals 
+2. Company Valuation Fundamentals: The Pillars of DCF 
+3.  A Case of Company Valuation for PE Investment 
+4.  Applying Company Valuation to PE Settings 
+5.  Applying Company Valuation to VC Settings: The VC Method 
+6.  Launching Your Own Startup: Suggestions 
+7.  PE and M&A – Interview with Eugenio Morpurgo 
+8.  PE and IPO – Interview with Luca Peyrano 
+9.  PE, Turnaround, and Restructuring – Interview with Raffaele Legnani  
+
+--- PAGE 12 ---
+After an overview of the DCF , in this clip we will individually analyze all the parts of 
+the formula used to calculate the equity value, bearing in mind that the DCF is based 
+on the generation of cash flow. 
+12 
+2 
+Introduction 
+                  CFt       
+         (1 + WACC)t 
+n 
+t=1 
++   TVn   +   (SA – M – NFP) Equity = 
+Enterprise Value 
+
+--- PAGE 13 ---
+DCF 
+The items composing DCF are the following:  
+ 
+• Cash Flow 
+• WACC 
+• kd 
+• ke 
+• TV 
+• NFP 
+• Minorities (M) 
+• Surplus Assets (SA) 
+13 
+2 Cash Flow WACC TV NFP, M, SA 
+
+--- PAGE 14 ---
+Cash Flow 
+14 
+2 
+PROFIT AND LOSS (OR INCOME) STATEMENT 
+ 
++ Sales and other operating revenues 
+- Operating costs (including R&D)  
+= EBITDA à Gross margin 
+- Depreciation 
+= EBIT à Operating profit 
++ Other income  à Typically financial and not operating income 
+- Interest expenses 
+= EBT 
+- Income taxes 
+= NET INCOME OR LOSS 
+Cash Flow WACC TV NFP, M, SA 
+
+
+--- PAGE 15 ---
+Cash Flow 
+15 
+2 Cash Flow WACC TV NFP, M, SA 
+CASH FLOW 
+ 
+EBIT 
+- Income taxes 
++ Depreciation 
+- Increase in net working capital 
+- capital expenditure à CAPEX 
+= CASH FLOW 
+This is the most widespread way to calculate the Free CF for the firm (i.e. the cash flow 
+available for financers and shareholders without considering a new debt issuance and the old 
+debt repayment). 
+Some authors call it also “unlevered cash flow” or cash flow for the firm to highlight the fact 
+that it does not provide any information about the capital structure. 
+
+--- PAGE 16 ---
+WACC 
+16 
+2 Cash Flow WACC TV NFP, M, SA 
+The concept of cost of capital refers to: 
+• Cost of debt (kd or id) 
+• Cost of equity capital (ke or ie) 
+That together are necessary to calculate the weighted average cost of capital (WACC). 
+
+--- PAGE 17 ---
+WACC:  
+The Cost of Debt 
+17 
+2 Cash Flow WACC TV NFP, M, SA 
+The cost of debt: 
+id* = id (1 – t)  
+Where: 
+• id stands for the average weighted cost of capital calculated either by dividing the 
+interest expenses by the financial liabilities or by taking into consideration every single 
+rate referring to different financings. 
+• t stands for the corporate tax rate. 
+id* = interest rate net of taxes 
+
+--- PAGE 18 ---
+WACC:  
+The Cost of Equity 
+18 
+2Cash Flow WACC TV NFP, M, SA 
+The cost of equity capital is calculated through the Capital Asset Pricing Model (CAPM) 
+formula: 
+ ie = rf + β (rm – rf)  
+Where: 
+• rf s t a n d s  f o r  t h e  r i s k  f r e e  r a t e  ( t h e  r a t e  o f  r e t u r n  y i e l d e d  b y  a  r i s k - f r e e  i n v e s t m e n t
+coherent in terms of maturity with the investment itself)
+•rm = rf + risk premium (i.e. the exceeding return investors expect from the market, 
+measured with historical series, with respect to a risk-free investment) 
+• β stands for the degree of correlation between the investment and the market
+
+--- PAGE 19 ---
+WACC:  
+The Cost of Equity 
+19 
+2 Cash Flow WACC TV NFP, M, SA 
+The β coefficient of a stock is a regression of returns of the stock against the returns on a 
+market index. 
+When  a company is not listed, it is necessary to compute the beta using the data of the 
+comparable companies. Here follows the steps: 
+1) Identification of the beta of a comparable (one or more) 
+2) Deleveraging of the beta with comparable companies data 
+3) Re-leveraging  of the beta using the target company data  
+ 
+Unlever means to exclude the effect of capital structure while relever means to re-
+calculate the beta coefficient using the capital structure of the firm 
+ 
+
+--- PAGE 20 ---
+WACC:  
+The Cost of Equity 
+20 
+2 Cash Flow WACC TV NFP, M, SA 
+The procedure to unlever is: 
+ 
+ βu  =  β/  [1+(1  –  t)(D/E)]  
+ 
+Where D a n d  E a r e  t h e  m a r k e t  v a l u e  o f  d e b t  a n d  e q u i t y  o f  t h e  c h o s e n  c o m p a r a b l e  
+companies. 
+And the procedure to relever is: 
+ 
+ β*  =  βu    x  [1+(1  –  t)(D/E)*]  
+
+
+* = target company data 
+ 
+
+--- PAGE 21 ---
+21 
+2Cash Flow NFP, M, SA 
+Once equity and debt cost of capital have been computed, the WACC is: 
+  iWACC  =  id
+*    x    (D/(D+E))  +  ie  x  (E/(D+E))  
+Where WACC represents an effective measure of the cost of all liabilities for the company 
+taken into consideration. 
+WACC:  
+The Cost of Equity 
+WACC TV 
+
+
+--- PAGE 22 ---
+22 
+2 Cash Flow NFP, M, SA 
+The terminal value (TV) is a crucial item necessary to calculate the equity value. The 
+formula is as follows: 
+ 
+ 
+ 
+ 
+ 
+Where g represents the perpetual growth rate by which the company is supposed to grow 
+every year. 
+ 
+ 
+ 
+ 
+TVn= 
+CFn  x  (1 + g)
+(WACC – g) 
+(1 + WACC)n 
+Terminal Value 
+WACC TV 
+
+
+--- PAGE 23 ---
+23 
+2 Cash Flow WACC TV NFP, M, SA 
+In the end, as seen in the previous clip, we need to deduct (if they exist): 
+• Surplus Assets 
+• Minorities’ equity 
+• Net Financial Position  
+from the enterprise value in order to obtain the equity value. 
+Surplus Assets,  
+Minorities, and NFP 
+
+--- PAGE 24 ---
+Content 3 
+1.  Company Valuation Fundamentals 
+2.  Company Valuation Fundamentals: The Pillars of DCF 
+3. A Case of Company Valuation for PE Investment 
+4.  Applying Company Valuation to PE Settings 
+5.  Applying Company Valuation to VC Settings: The VC Method 
+6.  Launching Your Own Startup: Suggestions 
+7.  PE and M&A – Interview with Eugenio Morpurgo 
+8.  PE and IPO – Interview with Luca Peyrano 
+9.  PE, Turnaround, and Restructuring – Interview with Raffaele Legnani  
+
+--- PAGE 25 ---
+Introduction 
+Through this exercise we will see the application of the equity value through the DCF.  
+This set of slide presents the solution for the “Old Winery” case.  
+Through this case a company valuation within PE is treated through a time horizon of 
+four years.  
+This means that the stream of CF has to be calculated over the whole investment 
+period. 
+25 
+3 
+
+--- PAGE 26 ---
+26 
+2015 2016 2017 2018 
+Sales 49,860 52,756 56,698 61,721 
+Operating Costs 39,379 40,910 43,782 45,714 
+EBITDA    10,481 11,846 12,916 16,007 
+Depreciation - 1,768 2,305 2,305 2,388 
+EBIT 8,713 9,541 10,611 13,619 
+Other Income -  - - - 
+Interest Expenses - 300 36 36 36 
+EBT 8,413 9,505 10,575 13,583 
+Taxes - 1,648 4,074 4,378 5,710 
+NET INCOME 6,765 5,431 6,197 7,873 
+Inputs – Income Statement 
+3 
+Income Statement (€/000): Data presented in the business plan 
+
+--- PAGE 27 ---
+27 
+2015 2016 2017 2018 
+(+) Depreciation 1,768 2,305 2,305 2,388 
+(-) Increase in the Working Capital (-) 9,788 4,500 500 500 
+(-) Capex (-) 3,000  3,975 1,322 500 
+Inputs 
+3 
+Inputs to compute the Cash Flow Statement (€/000): Data presented in the Business plan 
+Beta EV/Sales EV/EBITDA D/E 
+Mondavi (US) 0.73 6.2 26 9.45 
+Beringer (US) 0.94 5.5 22.9 5.25 
+Southcorp(AUS) 1.02 8.5 24.9 8.25 
+Bodegas (SP) 0.89 8.5 26.7 8.35 
+Campari (ITA) 1.23 6.7 24 7.35 
+Antinori (ITA) Not listed 4.9 26.9 7.85 
+Comparable companies’ inputs 
+
+--- PAGE 28 ---
+Inputs 
+Other Necessary Inputs: 
+ 
+ 
+ 
+ 
+ 
+ 
+The aim of the PE in this case is to compute the equity value through the formula: 
+  
+28 
+3 
+Expected Holding Period (n) 4 
+g rate /g) 0.25% 
+Surplus Assets (SA) 12,000 
+Minorities (M) - 
+Net Financial Position (NFP) 10,000 
+                  CFt       
+         (1 + WACC)t 
+n 
+t=1 
++   TVn   +   (SA – M – NFP) Equity = 
+
+--- PAGE 29 ---
+29 
+2015 2016 2017 2018 
+(+) EBIT 8,713 9,541 10,611 13,619 
+(-) Income Taxes - 1,648 4,074 4,378 5,710 
+(+) Depreciation 1,768  2,305 2,305 2,388 
+(-) Increase net working capital - 9,788 4,500 500 500 
+(-) Capex - 3,000 3,975 1,322 500 
+CASH FLOW - 3,955 - 703 6,716 9,297 
+Cash Flow 
+3
+Starting with the EBIT, we compute the CF for the 
+period taken into consideration:  
+Cash Flow WACC TV NFP, M, SA 
+
+--- PAGE 30 ---
+WACC 
+Following the steps in the WACC calculation, we need to compute: 
+ 
+a. Cost of debt net of tax  id
+*  =  id  (1  –  t)  
+b. β unlevered    βu  =  β/  [1+(1  –  t)(D/E)]   
+c. β relevered    β*  =  βu  [1+(1  –  t)(D/E)*]   
+d. Cost of equity    ie  =  rf  +  β  (rm  –  rf)   
+e. WACC    iWACC  =  id
+*    x  (D/D+E)  +  ie  x  (E/D+E) 
+30 
+3 
+Cash Flow WACC TV NFP, M, SA 
+
+--- PAGE 31 ---
+WACC 
+31 
+3 
+a. Cost of Debt net of Taxes cost of debt 2.4% 
+id*  =  id  (1  –  t) Corporate tax 35% 
+Net cost of debt capital 1.56% 
+b. β unlevered  
+  βu  =  β/  [1+(1  –  t)(D/E)]   beta unlevered 0.159337 
+c. β relevered  
+  β*  =  βu  [1+(1  –  t)(D/E)*]   beta relevered 0.32116 
+Cash Flow WACC TV NFP, M, SA 
+
+--- PAGE 32 ---
+WACC 
+32 
+3 
+e. WACC 
+ iWACC  =  id
+*    x  (D/D+E)  +  ie  x  (E/D+E)   WACC 2.25% 
+d. Cost of Equity risk free rate (rf) 1.25% 
+ ie  =  rf  +  β  (rm  –  rf)   risk premium rate (rm) 7.75% 
+beta 0.962 
+final beta 0.32116 
+Cost of equity capital 3.34% 
+Cash Flow WACC TV NFP, M, SA 
+
+--- PAGE 33 ---
+Computation of the terminal value (TV), using the following formula:  
+ 
+Terminal Value 
+33 
+3 
+ 
+ 
+ 
+ 
+9,297  x  (1 + 0.25%)
+(2.25% – 0.25%) 
+(1 + 2.25%)4 
+= 
+ 
+ 
+ 
+ 
+TVn= 
+CFn  x  (1 + g)
+(WACC – g) 
+(1 + WACC)n 
+ 
+ 
+ 
+ 
+=  425,482.50 
+Cash Flow WACC TV NFP, M, SA 
+
+--- PAGE 34 ---
+34 
+3
+Expected Holding Period (n) 4 
+g rate (g) 0.25% 
+Surplus Assets (SA) 12,000 
+Minorities (M) - 
+Net Financial Position (NFP) 10,000 
+(SA – M – NFP) = (12,000 – 0 – 10,000)  =  2,000 
+Surplus Assets,  
+Minorities, and NFP 
+Cash Flow WACC TV NFP, M, SA 
+
+--- PAGE 35 ---
+35 
+3 
+                  CFt       
+         (1 + WACC)t 
+n 
+t=1 
++   TVn   +   (SA – M – NFP) Equity = 
+Equity Value 
+Equity = 10,245.54  +  425,482.50 + 2,000 = 437,728.04  
+
+--- PAGE 36 ---
+Content 4 
+1.  Company Valuation Fundamentals 
+2.  Company Valuation Fundamentals: The Pillars of DCF 
+3.  A Case of Company Valuation for PE Investment 
+4. Applying Company Valuation to PE Settings 
+5.  Applying Company Valuation to VC Settings: The VC Method 
+6.  Launching Your Own Startup: Suggestions 
+7.  PE and M&A – Interview with Eugenio Morpurgo 
+8.  PE and IPO – Interview with Luca Peyrano 
+9.  PE, Turnaround, and Restructuring – Interview with Raffaele Legnani  
+
+--- PAGE 37 ---
+Introduction 
+In PE deals as said in the previous clips, there is a double valuation issue regarding 
+equity.  
+As a matter of fact the PEI wants the equity value to be as low as possible in the 
+beginning of the investment while the value has to be as large as possible by the end 
+of the investment. 
+37 
+4 
+
+--- PAGE 38 ---
+Inputs 
+The exercise that follows is based on the assumption that the liquidity is not an issue 
+for the exit from this investment.  
+In this company, the business plan is solid and the assumptions are very reliable.   
+Such is the case for investments made in expansion financing.  
+38 
+4 
+
+--- PAGE 39 ---
+Inputs 
+The issue can be addressed by following these steps:  
+ 
+1. Calculating equity at time 0 
+2. Calculating equity at time n 
+In this case another business plan would be needed, which a PEI does not have in 
+this case. So the next step is to calculate the IRR with the numbers available at 
+the moment of valuation. 
+39 
+4 
+
+--- PAGE 40 ---
+40 
+Inputs – Income Statement 
+4 
+Inputs from the business plan 
+Expected EBITDA at exit ? 
+Expected holding period 3 
+Expected NFP at exit ? 
+Expected EBITDA multiple at exit 4 
+PE Investment 4,500 
+Post money share percentage 30% 
+
+--- PAGE 41 ---
+41 
+Equity Value at the End of Investment 
+4 
+Business Plan 
+  2015 2016 2017 2018 2019 2020 
+Sales  35,000   39,000   43,000   45,000   50,000   54,000  
+Operating costs -  31,000   33,000   37,000   39,000   43,000   46,500  
+EBITDA  4,000   6,000   6,000   6,000   7,000   7,500  
+Depreciation -  1,500   1,500   1,500   2,000   2,000   2,000  
+EBIT  2,500   4,500   4,500   4,000   5,000   5,500  
+Other income - - - - - -  
+Interest expenses -  120   100   100   75   75   75  
+EBT  2,380   4,400   4,400   3,925   4,925   5,425  
+Taxes -  816   1,483   1,483   1,308   1,641   1,808  
+NET INCOME  1,564   2,917   2,917   2,617   3,284   3,617  
+    
+Net Financial position  4,500   4,000   4,000   3,500   3,500   3,000  
+Increase net working capital  1,000   1,000   1,200   1,200   1,200   1,200  
+Capex  5,000   1,000   1,000   5,000   1,000   1,000      
+CASH FLOW -6,316  -483  -483  -3,808   859   1,692  
+Holding Period 
+Because the holding period is three 
+years, exiting occurs in 2017. 
+(EBITDA – Taxes – NFP) 
+
+--- PAGE 42 ---
+Equity Value at the End of Investment 
+By using a multiple of 4 (as presented in the inputs table) we obtain the EV: 24,000 €/
+000.  
+Because the equity value is only part of the enterprise value, we need to deduct the 
+value of the NFP to get the equity value:  
+ 
+Equity value (€/000) = 24,000 – 4,000 = 20,000 
+ 
+Given that the PE has the 30% of this equity, at the exit it represents 6,000 €/000 
+after having made an investment of 4,500 €/000 three years before.  
+The IRR is 10.06%.  
+ 
+It is good or bad? 
+Nobody can tell except for the investors themselves. 
+42 
+4 
+
+--- PAGE 43 ---
+Equity Value at the End of Investment 
+For this reason, when the PEI undertakes an investment, running a sensitivity analysis 
+is a common practice, by which the PEI combines on the one hand the EBITDA 
+multiples and on the other hand it combines the holding period.  
+43 
+4 
+EBITDA MULTIPLES 
+HOLDING PERIOD 
+  3 4 5 6 7 8 
+1 -6.67% 33.33% 73.33% 113.33% 153.33% 193.33% 
+2 -3.39% 15.47% 31.66% 46.06% 59.16% 71.27% 
+3 -2.27% 10.06% 20.12% 28.73% 36.32% 43.15% 
+4 -1.71% 7.46% 14.74% 20.86% 26.16% 30.87% 
+5 -1.37% 5.92% 11.63% 16.36% 20.43% 24.01% 
+6 -1.14% 4.91% 9.60% 13.46% 16.76% 19.64% 
+
+--- PAGE 44 ---
+Content 5 
+1.  Company Valuation Fundamentals 
+2.  Company Valuation Fundamentals: The Pillars of DCF 
+3.  A Case of Company Valuation for PE Investment 
+4.  Applying Company Valuation to PE Settings 
+5. Applying Company Valuation to VC Settings: The VC Method 
+6.  Launching Your Own Startup: Suggestions 
+7.  PE and M&A – Interview with Eugenio Morpurgo 
+8.  PE and IPO – Interview with Luca Peyrano 
+9.  PE, Turnaround, and Restructuring – Interview with Raffaele Legnani  
+
+--- PAGE 45 ---
+Introduction 
+The venture capital method (VCM) focuses on the relation among the expected IRR, 
+the growth of the firm and the percentage of shares the PEI has to buy in order to 
+become an active owner of the venture-backed company. 
+ 
+This approach can be used (and it is typically used): 
+• For deals where the phase of price setting is fundamental 
+• For seed and startup deals in where it is difficult to determine the percentage of 
+investment for the equity investor. 
+45 
+5 
+
+--- PAGE 46 ---
+The Venture Capital Method 
+The venture capital method gives an answer to a very simple question: how many 
+shares does a PEI have to buy considering the investment made and the expected IRR? 
+ 
+This method develops over the following steps: 
+ 
+Step 1: The future value of the investment 
+Step 2: The TV calculation 
+Step 3: The percentage of shares the PEI will own after the investment 
+Step 4: The amount of share the VBC has to issue  
+Step 5: The value of the newly issued shares 
+46 
+5 Step 1 Step 2 Step 3 Step 4 Step 5 
+
+--- PAGE 47 ---
+Inputs 
+47 
+5
+Data Inputs 
+Value of the Investment 4,500,000 
+Expected IRR 45% 
+Expected holding period 5 
+Terminal year net income 3,500,000 
+P/E comparable Ration 12 
+Number of existing shares 100,000,000 
+Step 1 Step 2 Step 3 Step 4 Step 5 
+
+--- PAGE 48 ---
+Step 1: The Value of the Investment 
+48 
+5
+This activity concerns the calculation of the future value of the investment, 
+considering the expected holding period and the expected IRR, where the expected 
+IRR derives from the different constraints the investor has.  
+Future Value of the Investment = Value of the Investment x (1 + Exp IRR)n
+Future Value of the Investment = 4,500,000 x (1 + 45%)5 = 28,843,803.28
+Step 1 Step 2 Step 3 Step 4 Step 5 
+
+--- PAGE 49 ---
+Step 2: TV Calculation 
+49 
+5 
+This activity concerns the setting of the expected holding period and the calculation 
+of the terminal value. 
+The P/E ratio can also be a starting point to calculate the TV, in addition to the DCF 
+method seen in the previous clips. 
+ 
+TV = Value N Net Income x PE Ratio = 3,500,000 x 12 = 42,000,000 
+Step 1 Step 2 Step 3 Step 4 Step 5 
+
+--- PAGE 50 ---
+Step 3: The Percentage of Shares 
+50 
+5 
+After having computed the company TV, the investors need to compute the shares 
+they have the right to obtain in return for the investment made.  
+Step 1 Step 2 Step 3 Step 4 Step 5 
+       Future Value of the Investment 
+                  TV 
+% PE shares = 28,843,803.28 
+42,000,000 
+= =  68.68% 
+
+--- PAGE 51 ---
+Step 4: The Number of Shares to Be Issued 
+51 
+5 
+This activity concerns the calculation of the number of new shares the venture backed 
+company has to issue equaling to the percentage calculated in the previous step.  
+Step 1 Step 2 Step 3 Step 4 Step 5 
+                Existing Shares x (% of shares)  
+                    (1 - % shares) 
+Number of shares = 
+                100,000,000 x 68.68% 
+                (1 – 68.68%) 
+Number of shares = = 219,214.20 
+
+--- PAGE 52 ---
+Step 2: The Value of Newly Issued Shares 
+52 
+5 
+This activity concerns the calculation of the price of newly issued shares for the 
+investor. 
+Step 1 Step 2 Step 3 Step 4 Step 5 
+              Value of the Investment 
+             Number of New Shares 
+Price of new shares =  4,500,000 
+219,214.20 
+=  = 20.53  
+
+--- PAGE 53 ---
+Content 6 
+1.  Company Valuation Fundamentals 
+2.  Company Valuation Fundamentals: The Pillars of DCF 
+3.  A Case of Company Valuation for PE Investment 
+4.  Applying Company Valuation to PE Settings 
+5.  Applying Company Valuation to VC Settings: The VC Method 
+6. Launching Your Own Startup: Suggestions 
+7.  PE and M&A – Interview with Eugenio Morpurgo 
+8.  PE and IPO – Interview with Luca Peyrano 
+9.  PE, Turnaround, and Restructuring – Interview with Raffaele Legnani  
+
+--- PAGE 54 ---
+Introduction 
+In this clip some hints and tips will be presented that startuppers should keep in mind 
+before launching their own business.  
+ 
+As a matter of fact, nowadays this is a very good moment to launch (well-built) start 
+up in Europe too.  
+54 
+6 
+
+--- PAGE 55 ---
+Favorable Conditions 
+1) The first condition that may allow you to launch your own startup is the huge 
+amount of liquidity available in Europe together with the fact that interest rates 
+are lower à these conditions make an investor keen on investing in new 
+projects.  
+2) Nowadays there is a widespread interest in alternative investments which PE and 
+VC belong to. 
+3) On top of that, especially in Europe, there is a need for growth to enhance the 
+GDP  
+55 
+6 
+
+--- PAGE 56 ---
+Rules of a Well-Organized Sturtupper 
+1. Commitment, hard work, and passion 
+The fact that you, as the founder, believe in your work is a necessary element to 
+convince external investors and to demonstrate to them that your company is a good 
+investment. 
+ 
+2. Right team  
+In order to create a good company you need to hire the right people and the team 
+should be made up of people as diverse as possible. 
+ 
+3. Promotion of a glamorous idea. 
+The investor has to fall in love with the idea at the basis of the company because the 
+investors will trust a good idea provided that the founder believes in that idea too. 
+56 
+6 
+
+--- PAGE 57 ---
+Rules of a Well-Organized Sturtupper 
+4. Numbers, numbers, numbers!!! 
+Passion is important as well as commitment. A startupper should never forget about 
+the numbers: the VC looks for an IRR in the end. Once the idea of the founder is 
+translated in numbers, the entrepreneur has to make sure that there is room for an 
+(interesting) IRR. 
+ 
+5. Be a risk lover 
+The founders have to demonstrate to the investors that they are ready to face and 
+share the risk with the venture capitalist. 
+ 
+6. Be able to make other people commit 
+VC will test the entrepreneur’s ability to convince other people, and this means that 
+the start uppers have to be able to convince their own network. 
+57 
+6 
+
+--- PAGE 58 ---
+Final Recommendations  
+If you want to launch your own start up, remember that investors could be very 
+different being:  
+ 
+• Business angels  
+• High Net Worth Individuals  
+• Incubators 
+• Etc. ...  
+ 
+In any case, you have to remember that you have to select the most suitable one 
+for your project and needs. 
+58 
+6 
+
+--- PAGE 59 ---
+Content 7 
+1.  Company Valuation Fundamentals 
+2.  Company Valuation Fundamentals: The Pillars of DCF 
+3.  A Case of Company Valuation for PE Investment 
+4.  Applying Company Valuation to PE Settings 
+5.  Applying Company Valuation to VC Settings: The VC Method 
+6.  Launching Your Own Startup: Suggestions 
+7. PE and M&A – Interview with Eugenio Morpurgo 
+8.  PE and IPO – Interview with Luca Peyrano 
+9.  PE, Turnaround, and Restructuring – Interview with Raffaele Legnani  
+
+
+--- PAGE 60 ---
+Founder and CEO of Fineurop Soditic S.p.A. 
+ 
+Long experience in the M&A world. 
+ 
+Professor of Investment banking at Bocconi University. 
+Who Is Eugenio Morpurgo? 
+7 
+
+
+--- PAGE 61 ---
+What are the key trends in the M&A market today? 
+“In 2014 we observed a positive trend of the M&A market, which continues through 2015, it 
+is driven by acquisition financing and the liquidity availability of PE funds and corporations. 
+Generally speaking, we can say we are very optimistic for the M&A market and we will for 
+the next 6-7 months.  
+As for the Italian market, it is dominated by foreign investors, both strategic investors and 
+PE investors à “Quality assets” seem to be what the investors are more interested in.  
+In addition, multiples speak for themselves, the EBITDA margin multiple was 9: a record 
+over the last 15-20 years. I do not think that this is an Italian market bubble, again 
+acquisition financing is very good and there is still room for mid-size acquisition financing 
+projects, but this will depend on debt capital market, stock market and on the Grexit, 
+which may affect these markets in the next 3-4 months (note: the interview was taken in 
+early July 2015). 
+As for the Italian domestic market, we still see a lack of strategic domestic investments, 
+Italian investors are very cautious within Italian boundaries. This is a reason why PE is very 
+important in Italy.” 
+Q&A 
+7 
+
+--- PAGE 62 ---
+PE is one of the main drivers of the M&A market. How do you see the relationship 
+between PE and M&A today? 
+ 
+“PE has a very important share in the worldwide M&A market, in Europe as well 
+as in the US and this share is going to increase especially in those industries 
+where corporate strategic barriers are low.  
+I think that worldwide PE plays a very important role. As for Italy, this is even 
+bigger for two reasons: in the first place the IPO market is very weak and PE 
+could replace this IPO market, in addition to that PE can be extremely 
+important to support domestic groups in consolidation processes.” 
+Q&A 
+7 
+
+--- PAGE 63 ---
+M&A is relevant and complex at the same time. In your opinion, what are the key 
+issues for a company to manage M&A? 
+ 
+“Looking at the buy-side, the due diligence has to be extremely accurate, 
+especially when it comes to the value of the potential synergies and to what 
+happens in the post-acquisition process.  
+Looking at the sell-side, there are some opportunities in the IPO and M&A 
+market and sometimes sellers concentrate on fundamentals and forget to take 
+into consideration that the market can be very volatile.  
+There is an M&A cycle, largely depending on the stock market and the liquidity 
+availability. Therefore, sometimes the right window opens and closes very 
+quickly. You should catch the right window!” 
+Q&A 
+7 
+
+--- PAGE 64 ---
+Content 8 
+1.  Company Valuation Fundamentals 
+2.  Company Valuation Fundamentals: The Pillars of DCF 
+3.  A Case of Company Valuation for PE Investment 
+4.  Applying Company Valuation to PE Settings 
+5.  Applying Company Valuation to VC Settings: The VC Method 
+6.  Launching Your Own Startup: Suggestions 
+7.  PE and M&A – Interview with Eugenio Morpurgo 
+8. PE and IPO – Interview with Luca Peyrano 
+9.  PE, Turnaround, and Restructuring – Interview with Raffaele Legnani  
+
+
+--- PAGE 65 ---
+Head of Continental Europe for the London Stock Exchange.  
+ 
+Long experience in managing IPOs. 
+ 
+Great support to SMEs and bigger companies as they enter the financial 
+markets. 
+Who Is Luca Peyrano? 
+8 
+
+
+--- PAGE 66 ---
+An IPO is one of the exit mechanisms for private equity and venture capital. How do 
+you see the relationship between PE and stock exchange and what are the key issues 
+for an SME that jumps into the stock exchange? 
+ 
+“PE is crucial to capital markets, also they are important to spread an equity 
+culture. PE stands right before the IPO.  
+There is now an always strong relationship between us and the PE community, 
+not only on a local level.  
+In the past, up to 40% of IPOs derived from PE. In these years, half of the 
+capital raised from the London Stock Exchange comes from VBCs.” 
+Q&A 
+8 
+
+--- PAGE 67 ---
+What is Borsa Italiana (the Italian Stock Exchange) doing for SMEs and why SMEs are 
+usually so reluctant to go public?   
+ 
+“In Southern Europe there is a huge number of SMEs, not very close to the 
+capital markets. It is mainly for them that PE plays a bigger role.  
+The SMEs usually have a bigger perception of the distance between them and 
+the stock exchange. This is more of a psychological problem rather than a 
+technical one. Hence, we are creating markets that can be tailor-made for 
+smaller companies, and we are trying to engage with companies at an early-
+stage of life.  
+This is why three years ago we launched ELITE, which has proved to be very 
+successful. It is not a market but a business support program for SMEs in which 
+we train and coach companies and their managers.” 
+Q&A 
+8 
+
+--- PAGE 68 ---
+Can you say something more about ELITE that is becoming an exceptional format to 
+sustain SMEs towards the capital market? What is the challenge for Borsa Italiana 
+(Italian Stock Exchange)? 
+ 
+“ELITE turned out to be a magical solution, not only for Italian SMEs. It is a 
+quite recent understanding that let us know why companies would not go public.  
+It is all about creating the right environment. We provide an early-stage 
+training, together with top business schools, such as Bocconi University; then we 
+move to a phase in which companies are pushed towards change. We ask them to 
+explore new areas, such as business areas or their governance mode.  
+Eventually we present them to our investors. This program does not necessarily 
+lead to the stock exchange rather to consider all possible options that can 
+accelerate growth.” 
+Q&A 
+8 
+
+--- PAGE 69 ---
+Content 9 
+1.  Company Valuation Fundamentals 
+2.  Company Valuation Fundamentals: The Pillars of DCF 
+3.  A Case of Company Valuation for PE Investment 
+4.  Applying Company Valuation to PE Settings 
+5.  Applying Company Valuation to VC Settings: The VC Method 
+6.  Launching Your Own Startup: Suggestions 
+7.  PE and M&A – Interview with Eugenio Morpurgo 
+8.  PE and IPO – Interview with Luca Peyrano 
+9. PE, Turnaround, and Restructuring – Interview with 
+Raffaele Legnani 
+
+
+--- PAGE 70 ---
+Managing director at HIG capital. 
+ 
+Long experience in restructuring and turnarounds. 
+Who Is Raﬀaele Legnani? 
+9 
+
+
+--- PAGE 71 ---
+Restructuring and "special situations" are part of the relevant business for private 
+equity. How do you see today the relationship between PE and these areas? 
+ 
+“PE can help companies throughout their life cycle. PE can turn ideas into 
+businesses and can support expansion as well. PE funds can also help in their 
+restructuring and turnaround phases.  
+In today’s world, even if a company has a very sound business plan, it can be 
+strongly hit by sudden events which change the value of the company.  
+This is why PE funds that invest in change are more than welcome!  
+Without such players in the markets these companies overwhelmed by change 
+would go bankrupt and we would lose their so-called going concern value.” 
+Q&A 
+9 
+
+--- PAGE 72 ---
+What are the key issues for a PE investor that has to manage restructuring and 
+special situations? 
+ 
+“The most important thing is to have the right mindset. The PE has to look at 
+all those unsuccessful cases and point out those few companies which have a 
+chance. 
+This is an important skill for a PE investing in turnaround and restructuring.” 
+Q&A 
+9 
+
+--- PAGE 73 ---
+In your experience and in your opinion, what are the key trends in the market for 
+restructuring and special situations within the PE world?  
+ 
+“In the last few years there is an increasing attention of banks towards 
+distressed debt. For this, they created dedicated teams and they totally 
+changed their attitude.  
+Beforehand, they had a very passive attitude: they were more focused on 
+legal technicalities. Now, they really want to understand the business and 
+how they can create value in a company. This is a totally brand new mindset.  
+On the other hand, banks are quite new to this approach and to this way of 
+doing business. Therefore, I see a clear trend towards a partnership between 
+banks and PE funds to work together and help distressed companies.  
+PE can put in money and help banks in spotting the right companies in which 
+to invest. This could help not only distressed companies but all of the 
+economy after a domino effect.”  
+Q&A 
+9 

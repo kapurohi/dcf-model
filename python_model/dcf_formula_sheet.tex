@@ -1,0 +1,143 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{hyperref}
+
+\title{PE Module 4 Formula Sheet}
+\author{Extracted and structured from \texttt{PE\_Module\_4.pdf}}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section*{Source}
+Source PDF: \texttt{/Users/kavishapurohit/Desktop/Private Equity Course/PE\_Module\_4.pdf}
+
+\section*{DCF and Company Valuation Formulas}
+
+\subsection*{1. Equity Value from DCF}
+Pages: 8, 12, 35
+\[
+\text{Equity Value} = \sum_{t=1}^{n} \frac{CF_t}{(1 + WACC)^t} + TV_n + (SA - M - NFP)
+\]
+
+\subsection*{2. Income Statement Bridge}
+Page: 14
+\[
+EBITDA = Sales + Other\ Operating\ Revenues - Operating\ Costs
+\]
+\[
+EBIT = EBITDA - Depreciation
+\]
+\[
+EBT = EBIT + Other\ Income - Interest\ Expenses
+\]
+\[
+Net\ Income = EBT - Income\ Taxes
+\]
+
+\subsection*{3. Free Cash Flow for the Firm}
+Pages: 15, 29
+\[
+CF = EBIT - Income\ Taxes + Depreciation - Increase\ in\ Net\ Working\ Capital - CAPEX
+\]
+
+\subsection*{4. After-Tax Cost of Debt}
+Pages: 17, 30, 31
+\[
+id^* = id (1 - t)
+\]
+
+\subsection*{5. CAPM Cost of Equity}
+Pages: 18, 30, 32
+\[
+ie = r_f + \beta (r_m - r_f)
+\]
+
+\subsection*{6. Unlevered Beta}
+Pages: 20, 30, 31
+\[
+\beta_u = \frac{\beta}{1 + (1 - t)(D/E)}
+\]
+
+\subsection*{7. Relevered Beta}
+Pages: 20, 30, 31
+\[
+\beta^* = \beta_u \times [1 + (1 - t)(D/E)^*]
+\]
+
+\subsection*{8. WACC}
+Pages: 21, 30, 32
+\[
+WACC = id^* \times \frac{D}{D+E} + ie \times \frac{E}{D+E}
+\]
+
+\subsection*{9. Terminal Value Term as Shown in the Deck}
+Pages: 22, 33
+\[
+TV_n = \frac{CF_n \times (1 + g)}{(WACC - g)(1 + WACC)^n}
+\]
+
+\textbf{Important note:} the deck includes the discount factor inside the formula, so this expression behaves like the present value of terminal value, not only the time-$n$ terminal value.
+
+\section*{Worked-Example Formulas}
+
+\subsection*{10. Exit Enterprise Value from EBITDA Multiple}
+Pages: 40--42
+\[
+EV_{exit} = EBITDA_{exit} \times Exit\ Multiple
+\]
+
+\subsection*{11. Exit Equity Value}
+Page: 42
+\[
+Equity\ Value_{exit} = EV_{exit} - NFP_{exit}
+\]
+
+\subsection*{12. Future Value of the Investment}
+Page: 48
+\[
+Future\ Value\ of\ the\ Investment = Value\ of\ the\ Investment \times (1 + Expected\ IRR)^n
+\]
+
+\subsection*{13. VC Terminal Value Using P/E}
+Page: 49
+\[
+TV = Net\ Income_N \times P/E\ Ratio
+\]
+
+\subsection*{14. Required PE Ownership}
+Page: 50
+\[
+\%\ PE\ Shares = \frac{Future\ Value\ of\ the\ Investment}{TV}
+\]
+
+\subsection*{15. Number of New Shares}
+Page: 51
+\[
+Number\ of\ New\ Shares = \frac{Existing\ Shares \times \%\ Shares}{1 - \%\ Shares}
+\]
+
+\subsection*{16. Price of New Shares}
+Page: 52
+\[
+Price\ of\ New\ Shares = \frac{Value\ of\ the\ Investment}{Number\ of\ New\ Shares}
+\]
+
+\section*{Lean Rebuild Recommendation}
+To keep the next rebuild professional without unnecessary file sprawl, a 6-file structure is enough:
+\begin{enumerate}
+    \item \texttt{app.py} for Streamlit layout only
+    \item \texttt{formulas.py} for canonical formulas and metadata
+    \item \texttt{data\_api.py} for API fetchers and normalization
+    \item \texttt{dcf\_engine.py} for forecast schedules and valuation logic
+    \item \texttt{display.py} for tables, charts, and formatting
+    \item \texttt{checks.py} for validation, diagnostics, and sensitivity helpers
+\end{enumerate}
+
+Optional only if needed: \texttt{inputs.py} for presets or CSV loaders.
+
+\end{document}

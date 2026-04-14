@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+.next/
+node_modules/
+.ipynb_checkpoints/
