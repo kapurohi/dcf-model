@@ -1,9 +1,9 @@
 # DCF Model
 
-This repository now has two clean parts:
+This repository has two clean parts:
 
 - `python_model/`  
-  The shared Python valuation engine, formula references, requirements, and Jupyter notebook.
+  The shared Python valuation engine, requirements, and Jupyter notebook.
 - `interactive_site/`  
   The interactive web app built with Next.js on the frontend and FastAPI on the backend.
 
@@ -18,10 +18,9 @@ DCF Project/
 │   ├── dcf_engine.py
 │   ├── checks.py
 │   ├── formulas.py
-│   ├── dcf_formula_registry.py
 │   ├── dcf_model.ipynb
 │   ├── requirements.txt
-│   └── reference docs...
+│   └── ...
 ├── interactive_site/
 │   ├── app/
 │   ├── backend/
@@ -145,4 +144,4 @@ That starts:
 ## Notes
 
 - Generated folders like `.next`, `__pycache__`, `.pytest_cache`, `node_modules`, and `.ipynb_checkpoints` are not source files and should not be committed.
-- Formula/reference docs are intentionally kept because they will be useful for the notebook and the GitHub presentation.
+- The public repo is intentionally lean: the shared model, the notebook, and the interactive site are the main pieces.
