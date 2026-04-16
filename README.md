@@ -1,134 +1,53 @@
 # DCF Model
 
-This repository has two clean parts:
+This repository contains a Discounted Cash Flow (DCF) valuation model, implemented as a shared Python valuation engine and an interactive web application.
 
-- `python_model/`  
-  The shared Python valuation engine, requirements, and Jupyter notebook.
-- `interactive_site/`  
-  The interactive web app built with Next.js on the frontend and FastAPI on the backend.
+The project ensures that both the exploratory Jupyter notebook and the full-stack web application produce identical outputs by running on the same underlying DCF logic.
 
-Both parts use the same underlying DCF logic so the notebook and the site stay aligned.
+---
 
-## Repository Structure
+## Project Overview
 
-```text
-DCF Project/
-├── python_model/
-│   ├── data_api.py
-│   ├── dcf_engine.py
-│   ├── checks.py
-│   ├── formulas.py
-│   ├── dcf_model.ipynb
-│   ├── requirements.txt
-│   └── ...
-├── interactive_site/
-│   ├── app/
-│   ├── backend/
-│   ├── components/
-│   ├── content/
-│   ├── lib/
-│   ├── package.json
-│   └── jsconfig.json
-├── .env
-├── .gitignore
-└── README.md
-```
+The project is divided into two primary environments:
 
-## What Lives In `python_model/`
+1. **Python Model (`python_model/`)**
+   - The core valuation engine and financial logic.
+   - Handles data fetching, fallback pricing, and canonical formulas.
+   - Includes a Jupyter notebook for static walkthroughs and exploration.
 
-This folder is the model-first side of the project.
+2. **Interactive Site (`interactive_site/`)**
+   - A full-stack web application for building and exploring DCF models interactively.
+   - Built with a Next.js frontend and FastAPI backend.
+   - Leverages the shared Python package from `python_model/` for all core math.
 
-- `data_api.py`  
-  Shared model input structures, provider configuration, quote fetch helpers, and fallback pricing logic.
-- `dcf_engine.py`  
-  The main DCF workflow: forecast build, discounting, bridge, summary, and sensitivity.
-- `checks.py`  
-  Validation and diagnostics.
-- `formulas.py`  
-  Canonical formulas used by the engine.
-- `dcf_model.ipynb`  
-  A GitHub-friendly notebook that walks through the model outputs.
+---
 
-This is the best place to understand the model quickly without running the full web app.
+## What This Project Does
 
-## What Lives In `interactive_site/`
+### 1. Python Valuation Engine
 
-This folder is the product/UI side of the project.
+The `python_model/` directory houses the core logic. This is the best place to understand the model quickly without running the full web app.
 
-- `app/`  
-  Next.js app routes and styles.
-- `backend/`  
-  FastAPI routes and services.
-- `components/`  
-  UI and valuation workspace components.
-- `lib/`  
-  Frontend API calls, formatters, search helpers, and valuation helpers.
+- **`dcf_engine.py`** – Forecast building, discounting, and sensitivity analysis.
+- **`data_api.py`** – Fetching and fallback logic for market data and fundamentals.
+- **`dcf_model.ipynb`** – A GitHub-friendly notebook demonstrating the model's outputs.
 
-The interactive site uses the shared Python package from `python_model/`.
-
-## How The Backend Works
-
-1. Search begins in `interactive_site/backend/routes/search.py`
-2. Search normalization and listing metadata live in `interactive_site/backend/services/search_service.py`
-3. Valuation requests go through `interactive_site/backend/routes/valuation.py`
-4. Valuation orchestration happens in `interactive_site/backend/services/valuation_service.py`
-5. Market/fundamentals fetching happens in `interactive_site/backend/services/market_data_service.py`
-6. Core DCF math is imported from `python_model/`
-
-## Fallbacks We Built
-
-The backend does not rely on a single fragile path.
-
-- Exchange-aware ticker normalization
-  - Example: `RELIANCE -> RELIANCE.NS`, `BHP -> BHP.AX`
-- Quote fallback order
-  - Yahoo quote
-  - Yahoo chart/meta
-  - Yahoo summary price
-  - FMP quote
-  - FMP historical EOD latest close
-- Fundamentals fallback order
-  - Yahoo summary fundamentals
-  - FMP TTM statement endpoints
-  - FMP non-TTM statement endpoints
-  - conservative internal defaults when data is missing
-- Assumption fallback order
-  - custom user input
-  - historical default
-  - fallback default
-
-## Native Currency Support
-
-Listings now carry their own currency where applicable.
-
-Examples:
-
-- US: `USD`
-- UK: `GBP`
-- India: `INR`
-- Hong Kong: `HKD`
-- Japan: `JPY`
-- Australia: `AUD`
-- Singapore: `SGD`
-- Germany / France: `EUR`
-
-## Running The Notebook
-
-From the repository root:
+Run the notebook setup:
 
 ```bash
 python3 -m pip install -r python_model/requirements.txt
 ```
 
-Then open:
+Then open `python_model/dcf_model.ipynb`.
 
-```text
-python_model/dcf_model.ipynb
-```
+### 2. Interactive Web Application
 
-## Running The Interactive Site
+The `interactive_site/` directory contains the product side:
 
-From the interactive app folder:
+- **Frontend (`app/`, `components/`)** – Next.js UI components and valuation workspaces.
+- **Backend (`backend/`)** – FastAPI backend that handles search, valuation orchestration, and market data fetching.
+
+Run the application:
 
 ```bash
 cd interactive_site
@@ -136,12 +55,18 @@ npm install
 npm run dev
 ```
 
-That starts:
+Access the frontend on `http://localhost:4000` and the backend on `http://127.0.0.1:8000`.
 
-- frontend on `http://localhost:4000`
-- backend on `http://127.0.0.1:8000`
+---
+
+## Resiliency and Features
+
+- **Robust Fallbacks**: The system gracefully handles missing market data using alternative exchange APIs (Yahoo, FMP), historical averages, or conservative defaults.
+- **Native Currency Support**: Listings preserve and use their native currencies (e.g., USD, GBP, INR, JPY) throughout the valuation process.
+
+---
 
 ## Notes
 
-- Generated folders like `.next`, `__pycache__`, `.pytest_cache`, `node_modules`, and `.ipynb_checkpoints` are not source files and should not be committed.
-- The public repo is intentionally lean: the shared model, the notebook, and the interactive site are the main pieces.
+- Generated and temporary folders (`.next`, `__pycache__`, `node_modules`, `.ipynb_checkpoints`, etc.) are intentionally omitted and should not be committed.
+- The repository is kept intentionally lean, focusing purely on the shared model, the notebook, and the interactive UI.
